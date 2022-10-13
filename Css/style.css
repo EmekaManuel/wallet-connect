@@ -267,7 +267,7 @@ hr{
     font-family: sans-serif;
     text-align: center;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 550;
 }
 
 .modal-body_btn {
@@ -302,4 +302,28 @@ hr{
 .ex2p{
     font-size: 17px;
     text-transform: capitalize;
+}
+
+.cards{
+    padding: 10px 10px;
+}
+
+
+.card-body{
+    background-color: rgb(243, 242, 242);
+}
+.option {
+    font-size: 20px;
+    line-height: 40px;
+}
+.services{
+    padding: 10px 10px;
+}
+
+.close-btn{
+    margin-bottom: 10px;
+}
+.extra-info{
+    font:400;
+    font-size: 20px;
 }
